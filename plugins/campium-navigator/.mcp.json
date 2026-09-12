@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "campium-docs": {
+      "type": "http",
+      "url": "https://docs.campium.com/_mcp"
+    }
+  }
+}

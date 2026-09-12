@@ -1,0 +1,168 @@
+# Campium help docs index
+
+Snapshot of every page on docs.campium.com (September 2026), taken from https://docs.campium.com/llms.txt.
+Use it to find which page covers a feature when search results miss. It is a map, not the answer:
+always confirm steps with `search_documentation` or by fetching the page, because pages change.
+Page links below are the human-readable URLs. Add `.md` to any of them to get the markdown version.
+
+## Documentation
+
+- [Introduction to Campium](https://docs.campium.com/introduction): Discover Campium, the all-in-one platform for running your camp or program: from registration and forms to billing, attendance, communication, and more.
+- [Quickstart for Campium Admins](https://docs.campium.com/quickstart): Configure seasons, sessions, and registration forms so families can start registering and purchasing in your Campium site.
+- [Site Settings](https://docs.campium.com/settings): Guided reference for the Admin → Site Settings screen so camp admins can safely adjust modules, payments, mobile app options, and other account-wide behavior.
+- [Manage your Campium account](https://docs.campium.com/account): Update your password, default season, email notifications, two-factor authentication, and passkeys in the Campium admin account section.
+- [Billing](https://docs.campium.com/billing): Review your Campium subscription, pay outstanding balances, and track SMS usage from Billing in the admin user menu.
+- [Import Users](https://docs.campium.com/import-users): Import new or updated users into Campium from a CSV file, with precautions for duplicates and data integrity, plus completion email behavior.
+- [Staff Applications](https://docs.campium.com/staff): Set up a staff application form, manage applicants in Staff Hub, and understand how staff interact with your portal.
+- [Mobile App](https://docs.campium.com/mobile-app): A complete guide to the Campium mobile app: what families and staff can do, how navigation works, and troubleshooting common questions.
+- [Seasons and sessions](https://docs.campium.com/seasons-and-sessions): Understand how Seasons group Sessions, Products, and Subproducts in Campium, and learn how to create, copy, and manage capacities, waitlists, and season status.
+- [Authentication and password security](https://docs.campium.com/authentication): Understand how Campium authenticates users, enforces strong passwords by application, handles portal Change Email and Change Password, and supports Google and Apple sign-in, plus admin-focused troubleshooting tips.
+- [Payment Processors](https://docs.campium.com/payment-processors): Understand how Campium works with payment processors and review Finix settlement windows, merchant onboarding fields, and approval behavior.
+- [Payment Methods](https://docs.campium.com/payment-methods): Choose which methods families can use at checkout, record cash and check by hand, and set ACH, American Express, and credit card surcharge options.
+- [Account Balance report](https://docs.campium.com/account-balance): Review per-family outstanding balances for a season and compare them to scheduled payments to spot gaps in your collections plan.
+- [ACH Returns and Rejects report](https://docs.campium.com/ach-returns): Review ACH payments that have been returned or rejected, understand each column, and manage follow-up using email and archive actions.
+- [Deposit Summary report](https://docs.campium.com/deposit-summary): Review deposit batches, summary totals, estimated bank deposit dates, and match a bank-statement amount to a batch.
+- [Revenue Summary report](https://docs.campium.com/revenue-summary): Review gross and net revenue, payments by type, and discounts for a selected season or program group, with flexible filters and export options.
+- [Aging Account Balance report](https://docs.campium.com/account-balance-aging): See each family's outstanding balance built up over a date range, so you can track how much is owed and follow up on aging balances.
+- [Credits report](https://docs.campium.com/negative-balance): Find families who hold a credit or overpayment for a season, see where the credit came from, email them in bulk, and transfer credit when needed.
+- [Family Ledger report](https://docs.campium.com/family-ledger): Review every charge, payment, and credit for each family over a date range, in a running ledger grouped by family with revenue and credit subtotals.
+- [Ledger Summary report](https://docs.campium.com/ledger-summary): Review payment activity by family and day, with amounts broken out by payment method alongside revenue, discounts, manual adjustments, and balance.
+- [Deposit Detail report](https://docs.campium.com/deposit-detail): Drill into the individual payments behind a deposit, review fees and totals, mark payments reconciled, and export a batch to PDF.
+- [Invoiced Revenue report](https://docs.campium.com/invoiced-revenue): See a line-by-line list of every product invoiced for a season, with the family, product, description, and price for each sale line.
+- [Session Revenue report](https://docs.campium.com/program-revenue): See every session sold in a season, one row per camper session line, with the date, camper, session name, and cost, plus a running total.
+- [Revenue by Season report](https://docs.campium.com/revenue-by-product-group): Compare revenue, discounts, payments, and receivables across all of your seasons in one table, with an optional date range and payment-type filter.
+- [Rolling Revenue report](https://docs.campium.com/rolling-revenue): Compare daily revenue across your seasons in a single grid, with each day's figure and its day-over-day change, so you can track registration pace.
+- [Transaction Detail report](https://docs.campium.com/transaction-detail): See one row for every session added to an account, with the cost, revenue, payments by method, and remaining balance for that session in a chosen date range.
+- [Payments report](https://docs.campium.com/payments): See every payment collected, filter by outcome, amount, deposit, card brand, who recorded it, payment type, transaction type, discount, or card last four, and export the full filtered list.
+- [Discount reports](https://docs.campium.com/discount-reports): Review how discounts are used across your camp with three views: a usage summary, a season breakdown, and a per-person detail list.
+- [Product Rollup report](https://docs.campium.com/product-rollup): See how many people have registered for each session versus its capacity, including waitlisted counts and optional revenue, with expandable price options.
+- [Session Enrollee report](https://docs.campium.com/product-user): See everyone registered for a specific session or price option, with contact details, balance, revenue, and status, and choose which columns to display.
+- [Expense report](https://docs.campium.com/expense-report): Track and record your camp's expenses by category, vendor, and season, with a running total for the filtered list.
+- [Tipping](https://docs.campium.com/tipping): Let parents and visitors leave tips online, then track, pay out, void, or refund those tips with the tip report.
+- [Processing volume report](https://docs.campium.com/processing-volume): See how much your camp processed by credit card and ACH over time, broken down by period and by card type.
+- [Attendance](https://docs.campium.com/attendance): Use Attendance in CampiumDB to check campers in and out, track absences, run reports, manage pickup workflows, and troubleshoot daily roster issues.
+- [Attendance Kiosk](https://docs.campium.com/system-report-attendance-kiosk): Use the Attendance Kiosk to check campers in and out quickly using QR codes or PINs, with optional pickup tracking and clear front desk workflows.
+- [Attendance Reporting](https://docs.campium.com/system-report-attendance-reporting): View attendance summaries and drill down into check-ins, check-outs, and absences across a season or date range.
+- [My Groups](https://docs.campium.com/my-groups): Enable staff to take attendance for their assigned group on the mobile app and CampiumDB.com.
+- [Active Cart Report](https://docs.campium.com/system-report-active-cart): See which users currently have items in their shopping cart.
+- [System Reports Charts](https://docs.campium.com/system-report-charts): Understand registration patterns and year-over-year trends using the chart-based system reports, and turn those insights into concrete actions.
+- [Season Recap](https://docs.campium.com/system-report-season-recap): Review a season snapshot of enrollments, payments, and what filled, then email it to your administrators or open the related chart reports.
+- [Chronological User Registration report](https://docs.campium.com/system-report-chronological-user-registration): Track new registrations in date order, filter by season or all seasons, customize columns, and export the Chronological User Registration report.
+- [Average Family Expected Revenue report](https://docs.campium.com/average-family-spend): Track how much each family is expected to spend per season, review trends over time, and drill into specific families from the Average Family Expected Revenue report.
+- [Expired CC Report](https://docs.campium.com/system-report-expired-cc-report): Review accounts with expired credit cards on file in Campium Money, understand each column in the Expired CC Report, and navigate to profiles for follow-up.
+- [Family Payment Plans Report](https://docs.campium.com/system-report-payment-plans): Review families assigned to payment plans, including balances, payment methods, and custom profile fields, using the Family Payment Plans Report.
+- [Scheduled Payments Potential Issues](https://docs.campium.com/system-report-family-scheduled-payments): Review families’ scheduled payments for a season, filter by payment method and plan, spot potential issues, and send targeted payment notification emails.
+- [Families Without Primary Payment Method report](https://docs.campium.com/system-report-families-without-primary-payment-method): Identify families without a primary payment method on file, review their balances and active registrations, and plan follow-up actions.
+- [Form Status Summary report](https://docs.campium.com/form-status-summary): Track participant form completion by season, filter by session and sub-session, understand status colors, and export a summary of all live forms.
+- [Payment Method Updates - Families with Failed Payments](https://docs.campium.com/system-report-payment-method-updates-families-with-failed-payments): Run and interpret the Payment Method Updates report to see which families with failed or locked scheduled payments have recently updated their payment method.
+- [Profile Photo Report](https://docs.campium.com/system-report-profile-photo-report): Use the Profile Photo Report to see which campers are missing photos and send automated profile photo reminder emails by season.
+- [Birthday Report](https://docs.campium.com/birthdays): Use the Birthday Report to see upcoming birthdays for active campers and staff, and configure automated birthday emails.
+- [Scheduled Payments Report](https://docs.campium.com/system-report-scheduled-payments): Monitor upcoming scheduled payments, review expected income, customize columns, and send payment notifications from the Scheduled Payments Report.
+- [Scheduled Payments - Missing report](https://docs.campium.com/system-report-scheduled-payments-missing): Identify families without scheduled payments for a selected season, understand each column in the Scheduled Payments - Missing report, and interpret no-data results.
+- [Scheduled Payment Email Log](https://docs.campium.com/system-report-scheduled-payment-email-log): Audit scheduled payment related emails, filter by type, sender, date, and recipient, and view full message details in the Future Payment Email History report.
+- [Waitlist Report](https://docs.campium.com/waitlist): See who is waiting for a full session, track open spots, and email or invite families directly from the Waitlist Report.
+- [Combined Season Invoices](https://docs.campium.com/combined-season-invoices): Generate one PDF that combines season invoices for multiple families, then receive a 24-hour download link by email.
+- [Attendance Sheet](https://docs.campium.com/att): Print a paper PDF sheet for taking check-in and check-out attendance by hand.
+- [Pickup Privileges Report](https://docs.campium.com/pickup-report): See who is approved to pick up each camper so staff can verify identity at pickup.
+- [Session Roster Matrix](https://docs.campium.com/session-roster-matrix): Build a side-by-side grid of enrolled campers across sessions, filtered by a profile field value.
+- [Who Has Sessions By Season](https://docs.campium.com/system-report-product-coverage): For one season, see every camper and staff member with the sessions they hold, or who has none, and filter by type and status.
+- [Matrix Report](https://docs.campium.com/matrix): Build a cross-tab that counts people by two profile fields at once, with row, column, and grand totals.
+- [Campers by Session (Daily)](https://docs.campium.com/friends-by-session-daily): For a chosen day, see the campers attending each session with parent contact info and allergy details.
+- [New Registrations by Season](https://docs.campium.com/new-users-by-season): See the people who registered for the first time in the selected season.
+- [Family Registration Report](https://docs.campium.com/family-registration): Review per-family registration details for a season, including campers, parent contact info, and registration value.
+- [Family Map](https://docs.campium.com/geo): See where your families are located on a map, based on the address on file.
+- [Season Stats](https://docs.campium.com/index-stats): A dashboard of revenue, payments, registrations, and payment-method trends for the season.
+- [Note Summary](https://docs.campium.com/note-summary): A summary of notes added to profiles over a date range, with the note type and who added each one.
+- [Email Log](https://docs.campium.com/all-emails): A searchable log of emails sent from your account, with delivery and open status.
+- [Balance Transfer Utilization](https://docs.campium.com/balance-transfer-utilization): See how automatic balance transfers move credit from one season to the next, and how much of it families have used.
+- [Transfer Season Balances](https://docs.campium.com/transfer-season-balances): Preview and move family credits and amounts owed from one season to another in bulk from System Reports.
+- [Zero Out Season Credits](https://docs.campium.com/zero-out-season-credits): Preview and clear leftover season credits for eligible families by posting a matching adjustment from System Reports.
+- [Payment Detail by Camper and Session](https://docs.campium.com/product-payment-detail): See how much each camper has paid toward each session, with charges, payments, discounts and credits, and the remaining balance.
+- [Create and use custom reports](https://docs.campium.com/custom-reports): Build, save, and share custom reports in Campium, including filters, display fields, access settings, exports, labels, email, profile sheets, and batch edits.
+- [Allow a staff user to see a report](https://docs.campium.com/allow-a-staff-user-to-see-a-report): Share a custom report with a staff user by giving them read-only access so the saved report appears on their Dashboard in CampiumDB.
+- [Unverified Email Addresses Report](https://docs.campium.com/unverified): Find parent accounts that never clicked Verify in their verification email, review each column in the Unverified Email Addresses Report, and resend the verification email in one click.
+- [Bounced Email Addresses Report](https://docs.campium.com/bounced-emails): Review email addresses that permanently bounced, understand the Active and Resolved tabs and every column in the Bounced Email Addresses Report, and see how bounces resolve automatically when an address is updated.
+- [Incorrect Age Report](https://docs.campium.com/incorrect-age): Find campers whose age does not match their birth date, review each column in the Incorrect Age Report, and open the profile to correct the record.
+- [Potential Duplicate Users Report](https://docs.campium.com/duplicates): Find accounts that look like duplicates of each other based on matching names, review each column in the Potential Duplicate Users Report, and open the profiles to compare and merge.
+- [Payment Issues](https://docs.campium.com/payment-issues): Monitor billing health from the CampiumDB dashboard with payment issue shortcuts, badge counts, ACH visibility, and payment digest controls.
+- [Profiles](https://docs.campium.com/profiles): Understand the Profiles screen in the Campium admin, including header details, Active Cart, Actions, and all core tabs like data, forms, sales, files, and notes.
+- [Sex Offender Registry Check](https://docs.campium.com/sex-offender-registry-check): Run a sex offender registry lookup from a staff profile in CampiumDB, review saved results, and handle matches appropriately.
+- [Health Report](https://docs.campium.com/health-report): Print one person’s health details in a single PDF and choose which profile fields appear on the report.
+- [Medications & health](https://docs.campium.com/medications): Record a camper's medications, dispense and log doses, manage medication seasons, and print single or bulk health reports.
+- [Processing Refunds and Voids](https://docs.campium.com/processing-refunds-and-voids): Refund or void credit card and ACH payments from a user profile’s Sales tab, and remove scheduled or future payments when needed.
+- [Retry a failed scheduled payment](https://docs.campium.com/retry-failed-scheduled-payment): Retry a failed scheduled payment from the parent portal or admin portal, including family steps, staff workflows, results, and troubleshooting.
+- [Transportation](https://docs.campium.com/transportation): Use Transportation in CampiumDB to manage buses and riders, view live tracking, and review pickup privileges for safe, organized dismissal.
+- [Bunk Assignments](https://docs.campium.com/bunk-assignments): Assign campers to bunks or cabins, rename the term your camp uses, move placements, review requests, and manage capacity warnings from the assignments board.
+- [Bunk Summary](https://docs.campium.com/group-summary): Build a groups-by-week count matrix for your bunks or cabins, then print or export Excel and open camper rosters.
+- [Donations and fundraising](https://docs.campium.com/donations): Turn on the Donor module to accept online gifts, then track fundraising with the donor dashboard, donation pages, donor list, newsletters, and receipts.
+- [Donation pages](https://docs.campium.com/donation-pages): Create and manage the public pages people use to give to your camp, including page titles, supporting text, web addresses, and prefilled-amount links.
+- [Manage donors](https://docs.campium.com/donor-management): Work with your donor list, review individual gifts and resend receipts, send newsletters to donors and prospects, and track opens in the email log.
+- [Mass Emails](https://docs.campium.com/mass-emails): Send targeted mass emails to families and users in Campium, including filters, scheduling, live delivery progress, attachments, and performance stats.
+- [Email Sequences](https://docs.campium.com/email-sequences): Build automated drip email sequences that send a series of timed messages to families after they register, and control when each step goes out.
+- [SMS](https://docs.campium.com/sms): Send one-way SMS updates to families from Campium, including where to find SMS, how to compose messages, choose recipients, schedule, and review logs.
+- [Use one-way messaging](https://docs.campium.com/one-way-messaging): Enable family-to-family one-way messaging, guide families on sending notes, and review, filter, print, or delete messages in admin.
+- [Manage portal news](https://docs.campium.com/portal-news): Create and manage news posts that appear in the parent portal, including file links, YouTube videos, dates, and visibility controls.
+- [Send push notifications](https://docs.campium.com/push-notifications): Create, schedule, and review mobile push notifications for your camp community using the Communications Push Notifications tool.
+- [Use App Chat for camp communications](https://docs.campium.com/app-chat): Learn how to find chats, start new conversations, send messages, and organize favorites and groups in the Campium App Chat.
+- [Letter Generator](https://docs.campium.com/letter-generator): Write personalized letters, generate one PDF per filtered person, and manage saved templates in Communications.
+- [System Emails](https://docs.campium.com/system-emails): View and edit the automated, transactional emails Campium sends on your behalf, such as form approval, pending, and rejection notices, receipts, and invoices, including their subjects and content.
+- [Email in Campium](https://docs.campium.com/email): Understand the different email surfaces in Campium: mass emails, reusable email templates, and automated system emails, and where to manage each.
+- [Forms](https://docs.campium.com/forms): Use Forms in Campium to collect structured information from families, students, or staff, and manage their submissions in one place.
+- [References](https://docs.campium.com/references): Ask applicants to name people who will vouch for them, email each person one shared reference form, and track invitation status from the profile and portal.
+- [Test Mode](https://docs.campium.com/test-mode): Preview forms on the parent portal before launch using Test Mode, including who can access it, what it bypasses, and how to test safely.
+- [Digital Signatures](https://docs.campium.com/digital-signatures): Collect typed e-signatures on waivers and policy forms, with full audit trails including legal text snapshots, timestamps, and IP addresses.
+- [Who can access a form](https://docs.campium.com/permissions-recipients): Understand how a form decides who can see it: user-type permissions, recipient filters, and how the direct access link fits in.
+- [Business Info & Logo](https://docs.campium.com/business-info-and-logo): Update your camp business details, logo, and optional DKIM email authentication so families see the right name, contact info, and branding across Campium.
+- [Profile Fields](https://docs.campium.com/profile-fields): Create and manage custom data fields for campers, parents, and staff, then control where those answers appear across Campium.
+- [Integrations](https://docs.campium.com/integrations): Turn on and manage third-party integrations from Admin > Integrations in Campium.
+- [Manage contracts](https://docs.campium.com/contracts): Create, send, and track digital contracts for staff, campers, and guardians in the Admin Contracts area, including templates, statuses, and signing.
+- [Discounts](https://docs.campium.com/discounts): Manage discount codes, sibling discounts, and multi-session discount settings, including checkout behavior, usage, and troubleshooting.
+- [Payment Plans](https://docs.campium.com/payment-plans): Set up, manage, and troubleshoot seasonal payment plans so families can pay camp fees over time or choose pay in full.
+- [Campaigns](https://docs.campium.com/campaigns): Track marketing campaign performance in Campium Admin using campaign links, website tracking code, clear reports, and easy troubleshooting tips.
+- [CampiumDB Users](https://docs.campium.com/campiumdb-users): Manage staff logins, roles, statuses, and cross-account access from the CampiumDB Users page in Campium Admin.
+- [Roles & Permissions](https://docs.campium.com/roles-and-permissions): Configure staff access in Campium Admin by creating roles, adjusting permissions, previewing access, and assigning roles to users.
+- [Canteen](https://docs.campium.com/canteen): Track canteen balances, deposits, and purchases, and set up Canteen so families can add funds while staff record sales at camp.
+- [Email Templates](https://docs.campium.com/email-templates): Create, organize, and reuse email templates in Campium Admin for forms, mass emails, and profile-based communication workflows.
+- [Staff Scheduling](https://docs.campium.com/scheduling): Use the Staff Scheduler to manage weekly and monthly shifts, publish updates, and keep your staff schedule accurate.
+- [Use the Todo List](https://docs.campium.com/todo-list): Enable Campium's Todo List, assign work to staff, track progress, manage categories, and keep everyone updated across web and mobile.
+- [Staff Hub](https://docs.campium.com/staff-hub): Use Staff Hub as your operations dashboard to track staff application progress, application status, and contracts season by season, and to send a contract without leaving the page.
+- [Camper Hub](https://docs.campium.com/camper-hub): Track enrolled campers by season, filter who still needs forms, send guardian reminders, and update form status and profile fields from one admin roster.
+- [Training Videos](https://docs.campium.com/training-videos): Watch training sessions recorded for your camp, copy a shareable video link, or open a video in a new tab.
+- [Favorite pages](https://docs.campium.com/favorite-pages): Save admin pages you use often with the heart in the top bar, organize them in folders, and open them again from Favorites.
+- [Merge Users](https://docs.campium.com/merge-users): Combine two duplicate user records into one, moving payments, forms, contracts, and other history onto the account you keep. Merging is permanent and requires the merge users permission.
+- [Activity Scheduling](https://docs.campium.com/activity-scheduling): Plan your camp program with the Activity Scheduling module - set up activities, periods, day templates, and cycles, assign groups to activities on a calendar, and review the schedule in reports.
+- [Note Types](https://docs.campium.com/note-types): Configure the note categories your team can choose from when adding notes to camper, staff, and family profiles.
+- [Legal Documents](https://docs.campium.com/legal-documents): Edit and publish the platform legal documents, such as terms of service, that families see, and draft a notification to users when they change.
+- [Portal Settings](https://docs.campium.com/portal-settings): Configure your parent portal, including its browser favicon and which login user types appear on the sign-in and registration screens.
+- [Manage Seasons](https://docs.campium.com/manage-seasons): Create, update, and deactivate seasons from the admin area, including when to use profile-data snapshots for reporting.
+- [Guided Season Setup](https://docs.campium.com/guided-season-setup): Walk through Season, Sessions, Form, Payment plans, Discounts, and Review to get a season ready for registration.
+- [Subproducts](https://docs.campium.com/subproducts): Use subproducts to offer the same session in different ways by grade, age band, or other profile answers, with their own prices, caps, and wait lists.
+- [Tiered pricing](https://docs.campium.com/tiered-pricing): Configure tiered pricing for Campium products so prices and minimum deposits change automatically based on effective dates and pricing date rules.
+- [Cancellation Fees](https://docs.campium.com/cancellation-fees): Create and manage cancellation fee sessions for your seasons.
+- [Memberships](https://docs.campium.com/memberships): Learn how membership seasons enable recurring billing, ongoing dues, and membership-style checkout in Campium.
+- [Special Weeks](https://docs.campium.com/special-weeks): Set week dates for a season so attendance rosters match the weeks families selected on camper profiles.
+- [Food & Per-Day Ordering](https://docs.campium.com/food-and-per-day-ordering): Let families buy food and per-day items by calendar day with daily quantities, flexible order windows, and fulfillment reporting for staff.
+- [Product Quantities](https://docs.campium.com/product-quantities): Let families buy more than one of the same product (like t-shirts or add-ons) in a single purchase, with optional per-order limits.
+- [FAQ](https://docs.campium.com/faq): Publish and manage parent portal FAQ entries, control visibility, and understand how FAQ differs from Contact Us and Portal AI help.
+- [Photo Hosting](https://docs.campium.com/photo-hosting): Use Photo Hosting in CampiumDB to upload, tag, and share camp photos with families in the portal and mobile app Gallery, including reports and facial recognition.
+
+## Changelog
+
+- [Changelog](https://docs.campium.com/changelog): Stay updated on the latest releases, new features, and improvements in Campium.
+
+## FAQ
+
+- [User can't see the form on their portal](https://docs.campium.com/user-cant-see-the-form-on-their-portal): Use Check Permissions on a profile to find out why a form is missing from the parent portal and identify the exact rule blocking it.
+- [How do I mark a camper active?](https://docs.campium.com/how-do-i-mark-a-camper-active)
+- [Managing multiple email addresses](https://docs.campium.com/managing-multiple-email-addresses): Add or remove multiple email addresses on a user profile so families can share logins and you avoid duplicate accounts, with verification behavior explained.
+- [Resend a mass email to non-openers](https://docs.campium.com/resend-email-to-non-openers): Locate the resend-to-non-openers action for a sent mass email in Campium and understand how it targets recipients who have not opened the original message.
+- [Email users that have not completed a form](https://docs.campium.com/email-users-who-have-not-completed-a-form): Send an email to users based on their completion status for a specific Campium form, including how to review recipients by status.
+- [How do I skip the deposit?](https://docs.campium.com/how-do-i-skip-a-deposit)
+- [What is a chargeback?](https://docs.campium.com/what-is-a-chargeback): Understand what a chargeback is, why customers file them, how the process works, and what it means for your organization as the merchant.
+- [What is an ACH return?](https://docs.campium.com/what-is-an-ach-return): Learn what an ACH return is, why you received an email about it, where to review the return in Campium, and how to notify the family.
+- [Adding canteen funds for a user](https://docs.campium.com/adding-canteen-funds): Load money onto a camper or staff member's canteen balance when payment is taken at the office, using the admin Canteen Deposits screen.
+- [Where can I find a link for the Portal / parent site?](https://docs.campium.com/where-can-i-find-a-link-for-the-portal-/-parent-site)
+- [Do staff have access to high resolution downloads?](https://docs.campium.com/do-staff-have-access-to-high-resolution-downloads): Staff can view more gallery photos than families, but they must still purchase the high resolution package to download.
+- [How to create data views for profiles](https://docs.campium.com/how-to-create-data-views-for-profiles): Create a custom Data View for user profiles so you see only the fields you care about on the All User Data tab, then edit and reorder those fields.
+- [How to change a user's name](https://docs.campium.com/how-to-change-a-users-name)
+- [When do staff get assigned a season?](https://docs.campium.com/when-do-staff-get-assigned-a-season): Learn when a staff member is added to or removed from Staff Season on their profile for accurate reports and season tracking.

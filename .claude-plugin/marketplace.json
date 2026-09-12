@@ -1,0 +1,24 @@
+{
+  "name": "campium",
+  "owner": {
+    "name": "Campium",
+    "email": "support@campium.com"
+  },
+  "metadata": {
+    "description": "Claude plugins for camps that run on Campium."
+  },
+  "plugins": [
+    {
+      "name": "campium-navigator",
+      "source": "./plugins/campium-navigator",
+      "description": "Find your way around Campium: where settings live, how to do tasks, which report to run, and how to fix common problems, answered from the official Campium help docs.",
+      "author": {
+        "name": "Campium",
+        "email": "support@campium.com"
+      },
+      "homepage": "https://docs.campium.com",
+      "category": "productivity",
+      "keywords": ["campium", "campiumdb", "camp management", "help", "documentation"]
+    }
+  ]
+}
