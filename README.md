@@ -12,9 +12,15 @@ Plugins that help camps get more out of [Campium](https://campium.com) with Clau
 
 ### Claude Cowork
 
-Add this marketplace in your plugin settings using the repository `campiumdb/claude-plugins`, then install **campium-navigator**.
+1. In the sidebar, open **Customize**, then **Plugins**.
+2. Select **Add marketplace** and enter `campiumdb/claude-plugins`.
+3. Select **Browse plugins**, find **campium-navigator**, and click **Install**.
+
+To get new versions later, click **Update** on the Campium marketplace.
 
 ### Claude Code
+
+Run these in the Claude Code terminal (they don't work in Cowork):
 
 ```
 /plugin marketplace add campiumdb/claude-plugins
