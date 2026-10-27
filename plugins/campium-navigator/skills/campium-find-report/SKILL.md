@@ -1,6 +1,6 @@
 ---
 name: campium-find-report
-description: Picks the right Campium report for a question and explains where to find it, which filters to set, and how to read it, using the official help docs. Use when someone asks which report shows something or wants data out of Campium ("who still owes money", "how much did we make this summer", "which campers are missing forms", "how full is each session", "who's on the waitlist", "list of campers with allergies for week 3", "what report shows our deposits", "compare this year to last year").
+description: Picks the right Campium report for a question and explains where to find it, which filters to set, and how to read it, using the official help docs. Use when someone asks which report shows something or wants data out of Campium ("who still owes money", "how much did we make this summer", "which campers are missing forms", "how full is each session", "who's on the waitlist", "list of campers with allergies for week 3", "what report shows our deposits", "compare this year to last year", "how many 5th graders this season").
 ---
 
 # Campium Find Report
@@ -42,6 +42,8 @@ Several money reports sound alike. When the question touches balances or revenue
 - **Rolling Revenue**: day-by-day revenue across seasons, to compare registration pace.
 
 For enrollment, **Product Rollup** answers "how full is each session", while **Session Enrollee** lists the people in one session.
+
+For a count of people with one profile answer in a season ("how many 5th graders", "how many in Cabin 4"), use **Chronological User Registration**: pick the season, choose the field and answer in **Filter by profile field**, and read the record count. For every answer side by side (all grades at once), use the **Matrix Report**.
 
 ## Reports that change data
 

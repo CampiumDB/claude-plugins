@@ -64,7 +64,7 @@ Every report documented at docs.campium.com (snapshot, September 2026), grouped 
 | Who Has Sessions By Season | For one season, which campers and staff hold which sessions, or none | https://docs.campium.com/system-report-product-coverage |
 | Session Roster Matrix | Side-by-side grid of campers across sessions, filtered by a profile field | https://docs.campium.com/session-roster-matrix |
 | New Registrations by Season | Who registered for the first time this season? | https://docs.campium.com/new-users-by-season |
-| Chronological User Registration | New registrations in date order | https://docs.campium.com/system-report-chronological-user-registration |
+| Chronological User Registration | New registrations in date order. Also: how many people this season have one profile answer (how many 5th graders, how many in Cabin 4)? Use its Filter by profile field, then read the record count | https://docs.campium.com/system-report-chronological-user-registration |
 | Family Registration Report | Per-family registration details and value for a season | https://docs.campium.com/family-registration |
 | Season Recap | Season snapshot of enrollments, payments, and what filled; email it to admins | https://docs.campium.com/system-report-season-recap |
 | System Reports Charts | Registration patterns and year-over-year trends | https://docs.campium.com/system-report-charts |
